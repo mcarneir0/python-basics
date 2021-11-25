@@ -11,8 +11,8 @@ print(type(primeiraAula))
 # Linhas iniciadas com # são comentários.
 # Comentários são ignorados pelo Python e servem para explicar o código.
 
-'''
+"""
 O símbolo # é um comentário de apenas 1 linha.
-Usando 3 aspas simples consecutivas é possível abrir um bloco de comentário
-de múltiplas linhas. O bloco se encerra com outras 3 aspas simples.
-'''
+Usando 3 aspas duplas consecutivas é possível abrir um bloco de comentário
+de múltiplas linhas. O bloco se encerra com outras 3 aspas duplas.
+"""
