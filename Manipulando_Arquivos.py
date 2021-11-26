@@ -24,7 +24,7 @@ Essa etapa é importante por 2 motivos:
 
 
 # Abrir ou criar um arquivo:
-arquivocriado = open("criado.txt", "w")
+arquivocriado = open("teste.txt", "w")
 
 """
 A linha de comando acima abre (ou cria se não existe) um arquivo chamado "criado.txt" para escrita ("w", de write)
